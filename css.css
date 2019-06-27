@@ -1,0 +1,166 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	font-size:1em;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	background:url('img/back.jpg');
+}
+h1{
+	font-color:#4e4e4e;
+	font-size:13pt;
+}
+h2{
+	color:#00008B;
+
+}
+h3{
+	color:#00008B;
+	background:#CAE1FF;
+	padding:5px;
+
+}
+p{
+	text-indent:3em;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+#cabecalho{
+	margin:0 auto;
+	background-color:#CAE1FF ;
+	width:930px;
+	float:center;
+	
+	
+
+}
+#cabecalho img{
+	width:930px;
+
+	
+
+}
+#area-menu{
+	
+	background:#CAE1FF;
+	padding:5px;
+	margin:0px;
+	font-size: 18px;
+	text-align:center;
+	
+	
+}
+#area-menu a{
+	color:#00008B;
+}
+#principal{
+	width:930px;
+	margin:0 auto;
+	padding:15px;
+	
+}
+#conteudo , .lateral{
+	background: white;
+
+
+}
+
+#conteudo{
+
+width:660px;
+float:left;
+}
+#rodape{
+	background-color:;
+	clear:both;
+	text-align:center;
+	padding:15px;
+
+}
+.lateral{
+float:right;
+width:240px;
+background:white;
+}
+
+.postagem{
+	padding:20px;
+	margin-bottom: 20px;
+
+}
+.autor{
+	font-size:0.8em;
+	border-bottom:1px solid #EEDD82;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display:block;
+}
+#area-menu a:hover{
+	
+	font-size:1.0em;
+
+}
+#area-menu a {
+	padding:8px 8px 10px 10px;
+}
+
+.postagem a ,  .conteudoL a, .lateral a{
+	color:#00008B;
+}
+
+.conteudoL{
+	font-size:0.8em;
+	padding: 5px;
+	border-bottom: 1px solid #EEDD82;
+	text-decoration:none;
+
+}
+.conteudoL a:hover{
+	text-decoration: none;
+}
+.conteudoL .patrocinador{
+	width:70px;
+	padding:3px;
+
+}
+
+.redes{
+	width:30px;
+}
+.news{
+	padding:5px;
+	width:220px;
+}
+.coments{
+	width:500px;
+	height:40px;
+
+	border: 1px solid black;
+}
+.bold{
+	font-weight: bold;
+}
+.newpost{
+	margin-top: 1px solid yellow;
+	background-color: none;
+}
+.last{
+	font-size:0.8em;
+	padding: 5px;
+	
+	text-decoration:none;
+	border-bottom: 1px solid white;
+}
+form{
+	padding:10px;
+
+}
+.Enviar, .Limpar{
+	color:#00008B;
+	background: white;
+	
+
+}
